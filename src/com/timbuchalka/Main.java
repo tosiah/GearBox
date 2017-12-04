@@ -8,5 +8,6 @@ public class Main {
         x.setClucthIsIn(true);
         x.changeGear(2);
         x.changeGear(4);
+        x.changeGear(5);
     }
 }
