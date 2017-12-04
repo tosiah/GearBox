@@ -7,6 +7,6 @@ public class Main {
         Gearbox x = new Gearbox(5);
         x.setClucthIsIn(true);
         x.changeGear(2);
-        x.changeGear(3);
+        x.changeGear(4);
     }
 }
